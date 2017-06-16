@@ -2,8 +2,8 @@
 package surf
 
 import (
+	"github.com/danmux/surf/browser"
 	"github.com/headzoo/surf/agent"
-	"github.com/headzoo/surf/browser"
 	"github.com/headzoo/surf/jar"
 )
 
